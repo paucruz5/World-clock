@@ -62,3 +62,10 @@ footer {
   font-size: 18px;
   color: rgb(23, 234, 37);
 }
+
+a:link {
+  color: rgb(0, 0, 0);
+}
+a:visited {
+  color: white;
+}
